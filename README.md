@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Olá 👋, eu sou João Pedro Simas</h1>
 
 <h3 align="center">
@@ -103,5 +103,5 @@
 ✨ “Transformando café em código.” ☕  
 
 </div>
-```
+
 
