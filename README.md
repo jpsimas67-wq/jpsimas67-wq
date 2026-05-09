@@ -18,7 +18,7 @@
 - 🎓 Cursando Engenharia da Computação no SENAI CIMATEC
 - 💼 Estagiário no SENAI CIMATEC
 - 📚 Formado em Técnico em Análise e Desenvolvimento de Sistemas
-- 💻 Experiência com Python, C#, JavaScript, HTML, Banco de Dados e Desenvolvimento Web
+- 💻 Experiência com desenvolvimento web e programação
 - ⚡ Sempre aprendendo novas tecnologias
 - 🚀 Apaixonado por programação e inovação
 - 🎯 Focado em crescimento profissional na área de tecnologia
@@ -69,16 +69,18 @@
 
 ## 🧠 Atualmente estudando
 
+
 <div align="center">
 
 🌐 Desenvolvimento Web  
 🐍 Python  
 ⚙️ C#  
 🗄️ Banco de Dados  
-🚀 JavaScript
-🧩 HTML
+🚀 JavaScript  
+🧩 HTML  
 
 </div>
+
 
 ---
 
