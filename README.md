@@ -32,28 +32,6 @@
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpsimas67-wq&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpsimas67-wq&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
-
----
-
-## 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=jpsimas67-wq&theme=tokyonight&hide_border=false"/>
-
-</div>
-
----
-
 ## 🐍 Snake Animation
 
 <div align="center">
@@ -93,6 +71,7 @@
 ⚙️ C#  
 🗄️ Banco de Dados  
 🚀 JavaScript
+🧩 HTML
 
 </div>
 
