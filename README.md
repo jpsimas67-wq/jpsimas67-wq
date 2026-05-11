@@ -74,7 +74,7 @@
 
 🌐 Desenvolvimento Web  
 🐍 Python  
-⚙️ C#  
+⚙️ C++  
 🗄️ Banco de Dados  
 🚀 JavaScript  
 🧩 HTML  
